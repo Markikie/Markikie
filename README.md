@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sudawan</h1>
+<h1 align="center">Hi 👋, I'm Fern 🍵</h1>
 <h3 align="center">A passionate Fullstack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markikie" alt="markikie" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=markikie&label=Profile%20views&color=0e75b6&style=flat" alt="markikie" /> </p>
 
 - 🌱 I’m currently learning **Next.js, Golang and more about React Typescript**
 
